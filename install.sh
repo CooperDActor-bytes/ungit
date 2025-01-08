@@ -7,7 +7,7 @@ set -e
 BINARY_NAME="ungit"
 
 # GitHub repository URL for your tool
-REPO_URL="https://github.com/yourusername/ungit.git"
+REPO_URL="https://github.com/CooperDActor-bytes/ungit.git"
 
 # Temporary directory for downloading the source code
 TEMP_DIR=$(mktemp -d)

@@ -1,1 +1,1 @@
-/Users/salty/appa/ungit/target/release/ungit: /Users/salty/appa/ungit/src/main.rs
+/Users/salty/ungit/target/release/ungit: /Users/salty/ungit/src/main.rs

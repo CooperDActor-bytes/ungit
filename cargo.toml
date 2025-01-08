@@ -1,0 +1,12 @@
+[package]
+name = "ungit"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+clap = "4.0"
+
+[[bin]]
+name = "ungit"
+path = "src/main.rs"
+
